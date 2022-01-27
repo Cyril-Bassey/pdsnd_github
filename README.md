@@ -40,7 +40,7 @@ This program can be run by input 'python bikeshare.py' on your terminal. I used 
 After which the user is asked  the choice of restarting the whole program or not.
 
 ### Files used
-- new_york_city.csv - Is a Dataset that contains all bikeshare information for the city of New York given by Udacity.
+- new_york_city.csv - Is a Dataset that contains all bikeshare information for the city of New York given by Udacity
 - chicago.csv -  This is a dataset containing all bikeshare information for the city of Chicago 
 - washington.csv - Is a Dataset containing all bikeshare information for the city of Washington Note: This does not include the 'Gender' or 'Birth Year' data.
 
