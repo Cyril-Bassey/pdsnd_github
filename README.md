@@ -35,7 +35,7 @@ This program can be run by input 'python bikeshare.py' on your terminal. I used 
 - Most popular end station
 - Most popular combination of start and end stations
 - Average trip duration
-- Most popular day
+- Most popular day.
 - The most common birth year amongst users (if available)
 After which the user is asked  the choice of restarting the whole program or not.
 
