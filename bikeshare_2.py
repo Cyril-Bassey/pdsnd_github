@@ -34,7 +34,7 @@ def get_filters():
            break
     # get user input for month (all, january, february, ... , june)
     print ("Please enter which month you need data from, within the range of January to June")
-    print ("Ready!!!, Roll")
+    print ("Ready!!!, Roll.")
     month= input ("Enter your choice of month for analysis :" ).lower()
     while month not in ['january','february', 'march', 'april','may','june', 'all'] :  
         month= input ('Dear User, Plese type a month within these options January, February, March, April, May, June or all :' )
