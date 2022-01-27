@@ -2,7 +2,7 @@
 01-26-22
 
 ### Project Title
-*My Personal Basic Data Exploration with pandas on Bikeshare Data*
+*My Personal Basic Data Exploration with pandas on Bikeshare Data.*
 
 ### Description
 This is a Python project that uses pandas to explore bikeshare data.
