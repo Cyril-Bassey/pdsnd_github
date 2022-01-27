@@ -36,8 +36,8 @@ This program can be run by input 'python bikeshare.py' on your terminal. I used 
 - Most popular combination of start and end stations
 - Average trip duration
 - Most popular day.
-- The most common birth year amongst users (if available)
-After which the user is asked  the choice of restarting the whole program or not.
+- The most common birth year amongst users (if available).
+After which the user is asked  the choice of restarting the whole program or not
 
 ### Files used
 - new_york_city.csv - Is a Dataset that contains all bikeshare information for the city of New York given by Udacity
